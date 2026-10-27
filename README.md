@@ -1,2 +1,2 @@
-# kata-log
-Works on [Kata](https://kata-log.rocks/christmas-lights-kata)
+# katas
+Works on [Kata](https://kata-log.rocks/christmas-lights-kata).
